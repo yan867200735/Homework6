@@ -1,0 +1,110 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,1_png,2_png,3_png,4_png,11_png,12_png,13_png,14_png,15_png,16_png,5_png,6_png,bg2_jpg,tag1_png,tag2_png,tag3_png,tag4_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "1_png",
+			"type": "image",
+			"url": "assets/1.png"
+		},
+		{
+			"name": "2_png",
+			"type": "image",
+			"url": "assets/2.png"
+		},
+		{
+			"name": "3_png",
+			"type": "image",
+			"url": "assets/3.png"
+		},
+		{
+			"name": "4_png",
+			"type": "image",
+			"url": "assets/4.png"
+		},
+		{
+			"name": "11_png",
+			"type": "image",
+			"url": "assets/11.png"
+		},
+		{
+			"name": "12_png",
+			"type": "image",
+			"url": "assets/12.png"
+		},
+		{
+			"name": "13_png",
+			"type": "image",
+			"url": "assets/13.png"
+		},
+		{
+			"name": "14_png",
+			"type": "image",
+			"url": "assets/14.png"
+		},
+		{
+			"name": "15_png",
+			"type": "image",
+			"url": "assets/15.png"
+		},
+		{
+			"name": "16_png",
+			"type": "image",
+			"url": "assets/16.png"
+		},
+		{
+			"name": "5_png",
+			"type": "image",
+			"url": "assets/5.png"
+		},
+		{
+			"name": "6_png",
+			"type": "image",
+			"url": "assets/6.png"
+		},
+		{
+			"name": "bg2_jpg",
+			"type": "image",
+			"url": "assets/bg2.jpg"
+		},
+		{
+			"name": "tag1_png",
+			"type": "image",
+			"url": "assets/tag1.png"
+		},
+		{
+			"name": "tag2_png",
+			"type": "image",
+			"url": "assets/tag2.png"
+		},
+		{
+			"name": "tag3_png",
+			"type": "image",
+			"url": "assets/tag3.png"
+		},
+		{
+			"name": "tag4_png",
+			"type": "image",
+			"url": "assets/tag4.png"
+		}
+	]
+}
